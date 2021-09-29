@@ -1,0 +1,97 @@
+@media (max-width:575px){.skills-box{text-align:center;}
+.left-man-img img{display:none;}
+}
+@media(max-width:640px){.navbar-toggleable-sm>.container{width:100%;padding-left:30px;padding-right:30px}
+.navbar-expand-md .navbar-brand,
+.navbar-expand-md .navbar-toggler{margin:12px 15px}
+.navbar-expand-md .navbar-nav .active>.nav-link,
+.navbar-expand-md .navbar-nav .nav-link.active,
+.navbar-expand-md .navbar-nav .nav-link.active::before,
+.navbar-expand-md .navbar-nav .nav-link.open,
+.navbar-expand-md .navbar-nav .open>.nav-link{background:#ddd}
+.navbar-expand-md .navbar-nav .nav-link{padding:4px 12px;text-align:center;margin-bottom:3px}
+}
+@media(max-width:767px){.navbar-expand-md .navbar-nav .nav-link, .mainmenu-area .navbar-expand-md.fixed-top .navbar-nav .nav-link{color:#333;font-size:15px;padding:15px 12px;position:relative;}
+.skills-box-bottom{padding:40px 20px;}
+.pricing .pricing-table, .pricing .pricing-table.main{transform:scale(1);}
+.shorting-menu-area ul li{padding:0 4px;margin:0 0;font-size:13px;}
+.blog-img img{width:100%;height:auto;}
+.blog-info{padding:20px;}
+.res-margin-sm{margin-bottom:30px;}
+.main .main-pricing h3{margin-bottom:45px;}
+.our-team{margin-top:30px;}
+.ptb-100{padding:80px 0;}
+.section-header h2{line-height:35px;font-size:25px;}
+.section-header p{width:100%;}
+.shorting-menu-area{margin-top:30px;}
+.shorting-menu-area .list-inline{margin:0;}
+.counters-area{padding:40px 0 50px;}
+.our-skills-area.pt-100{padding-top:50px;}
+.skills-box{margin-top:50px;}
+.testimonial{margin:50px 0 30px 10px;text-align:center;position:relative;}
+.pricing{padding:40px 0 20px 0;}
+.video-inner-content h2{font-size:35px;}
+.blog-item{margin-top:40px;}
+.blog-item .blog-item-wrapper{margin-bottom:0;}
+#subscribe .sub_btn{min-width:125px;}
+#subscribe form input{font-size:15px;}
+.contact-form-area{margin-top:40px;}
+.address-info{padding:20px 0 50px;}
+.footer-link{text-align:center;}
+.footer-link.text-right{text-align:center !important;}
+#rocketmeluncur{bottom:30px;right:15px;}
+.footer-top .widgtet{margin-top:40px;}
+.counter-number{font-size:35px;}
+#map{height:350px;}
+.item-box-img{display:none;}
+.left-man-img{display:none;}
+#video-area .contents{padding:100px 0 60px;}
+#video-area .contents h1{font-size:30px;line-height:50px;}
+.banner-text{margin-top:20px;}
+.banner-text h1{font-size:25px;line-height:40px;}
+.banner-text p{margin:20px 0 30px;}
+.banner-text .btn{padding:8px 25px;}
+.section-header{margin-bottom:60px;}
+.welcome-area{padding:80px 0 40px;}
+.what-we-do{padding:80px 0 50px;}
+.our-team-area{padding:80px 0 30px;}
+.our-pricing.ptb-100{padding:80px 0 50px;}
+.video-area{padding:80px 0 60px;}
+.submit-btn{text-align:center;}
+.submit-btn .h3{margin:15px 0 0;}
+}
+@media (min-width:768px) and (max-width:991px){#video-area .contents h1{font-size:35px;line-height:60px;}
+#video-area .contents{padding:160px 0 120px;}
+.blog-img img{width:100%;height:auto;}
+.blog-info{padding:20px;}
+.hidden-sm{display:none;}
+.left-man-img{display:none;}
+.counter-number{font-size:35px;}
+.counters-area .counter-number.plus::after{font-size:35px;}
+.skills-box-bottom{color:#333333;padding:50px 40px;}
+.section-header{margin-bottom:80px;}
+.our-skills-area .section-header{margin-bottom:20px;}
+.skills-info{padding:0 0 80px;}
+}
+@media (min-width:992px) and (max-width:1140px){#video-area .contents h1{font-size:35px;line-height:60px;}
+#video-area .contents{padding:160px 0 120px;}
+}
+@media(min-width:320px) and (max-width:480px){.navbar-toggleable-sm>.container{width:100%;padding-left:30px;padding-right:30px}
+.mainmenu-area{padding:0}
+.bg-faded{background:#fff !important}
+.navbar-expand-md .navbar-brand,
+.navbar-expand-md .navbar-toggler{margin:12px 15px}
+.navbar-expand-md .navbar-nav .active>.nav-link,
+.navbar-expand-md .navbar-nav .nav-link.active,
+.navbar-expand-md .navbar-nav .nav-link.active::before,
+.navbar-expand-md .navbar-nav .nav-link.open,
+.navbar-expand-md .navbar-nav .open>.nav-link{background:#ddd}
+.navbar-expand-md .navbar-nav .nav-link{padding:2px 12px;text-align:center;margin-bottom:3px}
+.mainmenu-area .menu-button{display:none}
+.shorting-menu-area ul li{padding:0 2px;margin:0 0;font-size:12px;}
+}
+@media (min-width:992px){.blog-item-box{position:relative;padding-left:33%;}
+.blog-item-box-img{position:absolute;left:0;top:0;width:33%;height:100%;}
+}
+@media (min-width:1600px){.skills-box-bottom{padding:100px 70px;}
+}
